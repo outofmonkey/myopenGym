@@ -1,0 +1,6 @@
+RP_ID=hostname
+ORIGIN=http://ipadddr:8080 # <- Change
+WEB_PORT=8080
+RP_NAME=openGym
+ADMIN_UIDS=
+INVITE_ONLY=false
